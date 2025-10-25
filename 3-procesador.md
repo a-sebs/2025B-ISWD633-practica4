@@ -10,7 +10,12 @@ Asignar núcleos de CPU específicos:
 ```
 
 **¿Como saber el numero de procesadores virtuales que tiene una máquina?**
-## COMPLETAR
+
+```
+1. Ir al administrador de tareas
+2. Seleccionar CPU
+3. Ver el apartado de "Procesadores Lógicos"
+```
 
 ## Ejemplos
 _Puedes copiar y ejecutar directamente cada uno de los comandos_
